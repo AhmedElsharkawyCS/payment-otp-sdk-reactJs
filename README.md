@@ -6,8 +6,8 @@ In the project directory, you can run:
 
 - install [https://nodejs.org/en/](Node.js)
 - clone the project repo
-  [https://github.com/AhmedElsharkawyCS/Top-payment-task.git](
-  git clone <https://github.com/AhmedElsharkawyCS/Top-payment-task.git>)
+  [https://github.com/AhmedElsharkawyCS/Tap-payment-task.git](
+  git clone <https://github.com/AhmedElsharkawyCS/Tap-payment-task.git>)
 
 ## `Run`
 
